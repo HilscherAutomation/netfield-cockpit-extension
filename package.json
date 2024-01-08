@@ -1,0 +1,18 @@
+{
+  "name": "netfield-cockpit-extensions",
+  "version": "1.0.0",
+  "description": "netfield-cockpit-extensions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/example_server.js",
+    "test": "jest"
+  },
+  "author": "Hilscher Gesellschaft für Systemautomation mbH",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
