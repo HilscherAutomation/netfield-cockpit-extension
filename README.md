@@ -7,9 +7,9 @@ This is a brief description of what this project does and the value it provides.
 To install the project, follow these steps:
 
 1. Open your terminal.
-2. Clone the repository by running the command `git clone https://github.com/HilscherAutomation/netfield-cockpit-extensions.git`.
-3. Navigate to the project directory with `cd netfield-cockpit-extensions`.
-4. Install the project dependencies with `npm install`.
+2. Clone the repository by running the command `git clone https://github.com/HilscherAutomation/netfield-cockpit-extensions.git`
+3. Navigate to the project directory with `cd netfield-cockpit-extensions`
+4. Install the project dependencies with `npm install`
 
 After following these steps, the project should be installed and ready to use.
 
@@ -22,7 +22,7 @@ To start the example Node.js server, follow these steps:
 
 1. Open your terminal.
 2. Navigate to the project directory.
-3. Run the command `npm run start`.
+3. Run the command `npm run start`
 
 This command will initiate the server, making it accessible at http://127.0.0.1:3000/.
 
